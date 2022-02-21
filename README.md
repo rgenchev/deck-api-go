@@ -1,4 +1,4 @@
-# Deck API in Go
+# Deck REST API in Go
 
 Deck REST API written in Go.
 
